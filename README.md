@@ -3,7 +3,7 @@ Adversarially Regularized Joint Structured Clustering Network
 
 
 # Dataset
-Due to file size limitations, we only put USPS and HHAR datasets in the project. 
+We upload the data in the paper to Baidu Netdisk.
 All datasets are public datasets, which can be found through related literature
 
 
